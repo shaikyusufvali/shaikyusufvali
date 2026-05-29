@@ -19,10 +19,10 @@
 - 🤖 Passionate about **Agentic AI**, LLM systems, and building AI-powered real-world applications.
 - 🧠 Deep interest in **Data Science**, ML model development, and advanced AI research.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- 🏙 A lifetime insider and Mentor at [Exercism](https://github.com/shaikyusufvali).
+- ✍ I write technical blogs, You can visit my blog site at [DEV](https://github.com/shaikyusufvali).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kirannaragund.com) for more details about me.
+
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -107,7 +107,7 @@
 <!--Trophies Section-->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
+  <a href="https://github.com/shaikyusufvali">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
@@ -116,7 +116,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/daytonaio/daytona">
+  <a href="https://github.com/shaikyusufvali">
     <img
       src="https://api.vaunt.dev/v1/github/entities/Kiran1689/achievements?format=svg&limit=6"
       width="400"
@@ -133,7 +133,7 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
+        <a href="https://github.com/shaikyusufvali">
           <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
@@ -151,7 +151,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
+        <a href="https://github.com/shaikyusufvali">
           <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Kiran1689&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
@@ -188,8 +188,8 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
 
-<a href="mailto:ssartale6@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="ssartale6@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:shaikyusufvali55@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="shaikyusufvali55@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="" target="_blank">
@@ -200,7 +200,7 @@
 <img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.github.com/Kiran1689" target="_blank">
+<a href="https://github.com/shaikyusufvali" target="_blank">
 <img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
 </a>
 
@@ -208,7 +208,7 @@
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://dev.to/dev_kiran" target="_blank">
+<a href="https://github.com/shaikyusufvali" target="_blank">
 <img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
 </a>
 </div>
