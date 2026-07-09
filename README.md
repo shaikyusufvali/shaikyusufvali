@@ -1,6 +1,4 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Shaik Yusuf Vali</h1>
-<h3 align="center">Python Developer | AI & Machine Learning Enthusiast | Data Science Learner</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaikyusufvali&label=Profile%20Views&color=0e75b6&style=flat" />
