@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./banner.png" alt="Shaik Yusuf Vali Banner" width="100%">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaikyusufvali&label=Profile%20Views&color=0e75b6&style=flat" />
