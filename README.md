@@ -1,16 +1,20 @@
-# 🚀 Hi there, I'm **Shaik Yusuf Vali** 👋
+# 🚀 Hi there, I'm
 
-<h2 align="center">
-📊 Data Scientist • 🤖 AI Engineer • 🐍 Python Developer
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Shaik+Yusuf+Vali" alt="Shaik Yusuf Vali"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF6B35&center=true&vCenter=true&width=700&lines=AI+Engineer;Data+Scientist;Python+Developer;Machine+Learning+Engineer;Generative+AI+Developer" alt="AI Engineer | Data Scientist | Python Developer"/>
+</p>
 
 <p align="center">
   <img src="./banner.png" width="100%" alt="Shaik Yusuf Vali Banner"/>
 </p>
 
-<h3 align="center">
-Machine Learning • Generative AI • Data Science • Python
-</h3>
+<p align="center">
+  <b>Machine Learning • Generative AI • Data Science • Python</b>
+</p>
 
 <p align="center">
 Passionate about building AI-powered applications, analyzing data, developing machine learning solutions, and continuously learning modern AI technologies.
@@ -36,17 +40,17 @@ Passionate about building AI-powered applications, analyzing data, developing ma
 
 🌱 **Currently Learning**
 
-* Advanced Python
-* Data Structures & Algorithms
-* Pandas & NumPy
-* Machine Learning
-* Deep Learning
-* Generative AI
-* Large Language Models
-* Prompt Engineering
-* RAG Applications
-* FastAPI
-* React
+* 🐍 Advanced Python
+* 🧮 Data Structures & Algorithms
+* 📊 Pandas & NumPy
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* ✨ Generative AI
+* 🧩 Large Language Models
+* 💡 Prompt Engineering
+* 📚 RAG Applications
+* ⚡ FastAPI
+* ⚛️ React
 
 🎯 **Career Goal**
 
@@ -54,7 +58,7 @@ To become a professional **Data Scientist / AI Engineer** by building intelligen
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ## 🐍 Programming Languages
 
@@ -107,7 +111,7 @@ To become a professional **Data Scientist / AI Engineer** by building intelligen
 * SQL Server
 * SQLite
 
-## 🛠 Tools
+## 🛠️ Tools
 
 * Git
 * GitHub
@@ -287,46 +291,33 @@ Collection of SQL queries and database concepts for learning and interview prepa
 
 # 📚 Currently Learning
 
-* 🐍 Advanced Python
-* 📊 Data Science
-* 🤖 Machine Learning
-* 🧠 Deep Learning
-* ✨ Generative AI
-* 🧩 Prompt Engineering
-* 📚 RAG Applications
-* ⚡ FastAPI
-* ⚛️ React
-* 🧮 Data Structures & Algorithms
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=Advanced+Python;Data+Science;Machine+Learning;Deep+Learning;Generative+AI;Large+Language+Models;RAG+Applications;FastAPI;React;Data+Structures+%26+Algorithms" alt="Currently Learning"/>
+</p>
 
 ---
 
 # 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shaikyusufvali&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikyusufvali&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikyusufvali&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikyusufvali&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikyusufvali&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikyusufvali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
 # 🏆 Highlights
 
-* 📊 Data Scientist
-* 🤖 AI Engineer
-* 🐍 Python Developer
-* 🧠 Machine Learning Enthusiast
-* ✨ Generative AI Learner
-* 📈 Data Analysis & Visualization
-* 🚀 AI Application Developer
-* 💡 Problem Solver
-* 📚 Continuous Learner
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&color=0E75B6&center=true&vCenter=true&width=700&lines=📊+Data+Scientist;🤖+AI+Engineer;🐍+Python+Developer;🧠+Machine+Learning+Enthusiast;✨+Generative+AI+Learner;📈+Data+Analysis+%26+Visualization;🚀+AI+Application+Developer;💡+Problem+Solver" alt="Highlights"/>
+</p>
 
 ---
 
@@ -356,29 +347,35 @@ Collection of SQL queries and database concepts for learning and interview prepa
 
 # 🌐 Connect With Me
 
-📧 **Email**
+<p align="center">
 
-**[shaikyusufvali55@gmail.com](mailto:shaikyusufvali55@gmail.com)**
+<a href="mailto:shaikyusufvali55@gmail.com">
+<img src="https://img.shields.io/badge/Email-shaikyusufvali55%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💼 **LinkedIn**
+<a href="https://www.linkedin.com/in/shaik-yusuf-vali-79a4aa3a3/">
+<img src="https://img.shields.io/badge/LinkedIn-Shaik%20Yusuf%20Vali-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**[Shaik Yusuf Vali](https://www.linkedin.com/in/shaik-yusuf-vali-79a4aa3a3/)**
+<a href="https://github.com/shaikyusufvali">
+<img src="https://img.shields.io/badge/GitHub-shaikyusufvali-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🐙 **GitHub**
-
-**[shaikyusufvali](https://github.com/shaikyusufvali)**
+</p>
 
 ---
 
 # 💡 Quote
 
-> **"Learning never stops. Every project is a step closer to becoming a better developer."**
+<p align="center">
+  <i>"Learning never stops. Every project is a step closer to becoming a better developer."</i>
+</p>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=⭐+Thanks+for+visiting+my+profile!;🚀+Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing!" alt="Thanks for visiting"/>
+</p>
 
 <p align="center">
 If you like my projects, don't forget to ⭐ my repositories.
