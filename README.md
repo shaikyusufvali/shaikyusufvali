@@ -1,11 +1,11 @@
 # 🚀 Hi there, I'm
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Shaik+Yusuf+Vali" alt="Shaik Yusuf Vali"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Shaik+Yusuf+Vali" alt="Shaik Yusuf Vali"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF6B35&center=true&vCenter=true&width=700&lines=AI+Engineer;Data+Scientist;Python+Developer;Machine+Learning+Engineer;Generative+AI+Developer" alt="AI Engineer | Data Scientist | Python Developer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&color=FF6B35&center=true&vCenter=true&width=750&lines=Data+Scientist;AI+Engineer;Machine+Learning+Engineer;Python+Developer;Generative+AI+Developer" alt="Data Scientist | AI Engineer | Machine Learning Engineer"/>
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <b>Machine Learning • Generative AI • Data Science • Python</b>
+  <b>Data Science • Machine Learning • Generative AI • Python • AI Engineering</b>
 </p>
 
 <p align="center">
-Passionate about building AI-powered applications, analyzing data, developing machine learning solutions, and continuously learning modern AI technologies.
+Passionate about data, artificial intelligence, machine learning, and building intelligent applications that solve real-world problems.
 </p>
 
 <p align="center">
@@ -32,29 +32,36 @@ Passionate about building AI-powered applications, analyzing data, developing ma
 
 🎓 B.Tech in **Artificial Intelligence & Machine Learning**
 
-💻 Passionate **Data Scientist, Python Developer, and AI Engineer** focused on Artificial Intelligence, Machine Learning, Data Science, and Generative AI.
+📊 Aspiring **Data Scientist** passionate about transforming data into meaningful insights and building intelligent machine learning solutions.
 
-📊 Interested in **Data Analysis, Machine Learning, Predictive Modeling, and AI-powered applications**.
+🐍 Strong interest in **Python, Data Science, Machine Learning, SQL, and Generative AI**.
 
-🚀 I enjoy building real-world applications using Python, Machine Learning, Generative AI, and modern web technologies.
+🤖 Experienced in building AI-powered applications using modern AI and software development technologies.
 
-🌱 **Currently Learning**
+📈 Interested in **Data Analysis, Exploratory Data Analysis, Predictive Modeling, Machine Learning, and AI Applications**.
+
+🚀 I enjoy learning new technologies and turning ideas into practical projects.
+
+### 🌱 Currently Learning
 
 * 🐍 Advanced Python
-* 🧮 Data Structures & Algorithms
-* 📊 Pandas & NumPy
+* 📊 Data Science
+* 📈 Data Analysis
 * 🤖 Machine Learning
 * 🧠 Deep Learning
 * ✨ Generative AI
 * 🧩 Large Language Models
-* 💡 Prompt Engineering
 * 📚 RAG Applications
+* 🗄️ SQL & Databases
 * ⚡ FastAPI
 * ⚛️ React
+* 🧮 Data Structures & Algorithms
 
-🎯 **Career Goal**
+### 🎯 Career Goal
 
-To become a professional **Data Scientist / AI Engineer** by building intelligent applications, developing machine learning solutions, and solving real-world business problems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=900&color=0E75B6&center=true&vCenter=true&width=700&lines=My+Goal+is+to+become+a+Data+Scientist+📊;Learn+%7C+Build+%7C+Analyze+%7C+Improve+🚀" alt="Career Goal"/>
+</p>
 
 ---
 
@@ -68,20 +75,15 @@ To become a professional **Data Scientist / AI Engineer** by building intelligen
 * HTML5
 * CSS3
 
-## ⚡ Frameworks & Technologies
-
-* FastAPI
-* Streamlit
-* React
-* Electron
-
-## 📊 Data Science & Analysis
+## 📊 Data Science
 
 * Pandas
 * NumPy
 * Data Cleaning
 * Exploratory Data Analysis
 * Feature Engineering
+* Data Preprocessing
+* Statistical Analysis
 
 ## 📈 Data Visualization
 
@@ -91,19 +93,30 @@ To become a professional **Data Scientist / AI Engineer** by building intelligen
 ## 🤖 Machine Learning
 
 * Scikit-learn
-* Regression
+* Linear Regression
+* Logistic Regression
 * Classification
+* Regression
 * Model Evaluation
-* Data Preprocessing
+* Train/Test Split
+* Feature Scaling
 * Predictive Modeling
 
-## 🧠 Artificial Intelligence
+## 🧠 Generative AI
 
 * Generative AI
 * Large Language Models
 * Prompt Engineering
 * RAG Applications
+* AI Assistants
 * AI Application Development
+
+## ⚡ Frameworks & Technologies
+
+* FastAPI
+* Streamlit
+* React
+* Electron
 
 ## 🗄️ Databases
 
@@ -123,176 +136,95 @@ To become a professional **Data Scientist / AI Engineer** by building intelligen
 
 # 🚀 Featured Projects
 
-## 🤖 AI First CRM
+## 🤖 Harmony AI Pro
 
-AI-powered Customer Relationship Management Desktop Application.
+**Human-Aware Robotic Intelligence using Generative AI**
 
-### Features
+An AI-powered project focused on combining robotics, computer vision, and Generative AI to create intelligent and human-aware robotic interactions.
 
-* AI Chat Assistant
-* Dashboard Analytics
-* HCP Management
-* Authentication
-* FastAPI Backend
-* React Frontend
-* Electron Desktop Application
+### 🔥 Key Features
 
-**Tech Stack:** Python • FastAPI • React • Electron • SQLite
+* 🤖 Human-Aware Robot Intelligence
+* ✨ Generative AI Integration
+* 👁️ Computer Vision
+* 🧠 AI-Based Decision Making
+* 🎤 Voice Interaction
+* 🦾 Robotics Integration
+* 💬 Intelligent Human-Robot Interaction
 
----
-
-## 📄 AI Resume Analyzer Pro
-
-AI-powered resume analysis application designed to analyze resumes and improve ATS compatibility.
-
-### Features
-
-* ATS Score
-* Resume Analysis
-* Resume & Job Description Matching
-* Skill Gap Detection
-* AI Suggestions
-* PDF Report Generation
-
-**Tech Stack:** Python • Streamlit • Gemini AI
+**Tech Stack:** Python • Generative AI • Computer Vision • OpenCV • MediaPipe • Robotics
 
 ---
 
-## 🎤 AI Interview Coach
+## 👨‍💼 AI Digital Employee
 
-AI-powered interview preparation application for practicing technical interviews.
+An AI-powered digital employee system designed to automate tasks and provide intelligent assistance.
 
-### Features
+### 🔥 Key Features
 
-* AI Interview Questions
-* Resume-Based Questions
-* AI Evaluation
-* Interview Score
-* Interview History
-* PDF Report
+* 🤖 AI Assistant
+* 💬 Intelligent Chat
+* 📄 Document Upload & Processing
+* 🧠 AI-Based Responses
+* 👨‍💼 Employee Management
+* 🔐 Authentication
+* ⚡ FastAPI Backend
+* ⚛️ React Frontend
 
-**Tech Stack:** Python • Streamlit • SQLite • Gemini AI
-
----
-
-## 💬 Smart PDF Chatbot
-
-AI-powered application that allows users to interact with PDF documents.
-
-### Features
-
-* PDF Upload
-* Text Extraction
-* AI Question Answering
-* Intelligent Responses
-* Document Search
-
-**Tech Stack:** Python • Streamlit • Gemini AI
+**Tech Stack:** Python • FastAPI • React • Generative AI • SQL • JWT
 
 ---
 
-## 🎨 AI Image Generation
+## 📊 Customer Churn Prediction ML
 
-AI-powered application for generating images from text prompts.
+Machine Learning project for predicting whether a customer is likely to leave a service.
 
-### Features
+### 🔥 Key Features
 
-* Prompt-Based Image Generation
-* AI Image Creation
-* User-Friendly Interface
+* 📥 Dataset Loading
+* 🧹 Data Cleaning
+* 🔍 Exploratory Data Analysis
+* 📊 Feature Analysis
+* 🔄 Data Preprocessing
+* ✂️ Train/Test Split
+* 🤖 Machine Learning Model
+* 📈 Model Prediction
+* 📏 Model Evaluation
 
-**Tech Stack:** Python • Streamlit • Gemini AI
+### 📊 Evaluation Metrics
 
----
+* MAE
+* MSE
+* RMSE
+* R² Score
 
-## 📊 Laptop Sales Data Analysis
-
-Data analysis project focused on extracting meaningful business insights from laptop sales data.
-
-### Features
-
-* Data Cleaning
-* Missing Value Handling
-* Exploratory Data Analysis
-* Data Visualization
-* Business Insights
-
-**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn
+**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
 
 ---
 
-## 🍔 Smart Food Delivery Platform
+## 🍔 Smart Food Delivery Agent
 
-Final Year Academic Project.
+AI-powered smart food delivery platform designed to improve the food ordering and delivery experience.
 
-### Features
+### 🔥 Key Features
 
-* Customer Management
-* Restaurant Management
-* Delivery Partner Management
-* Order Tracking
-* Order History
+* 👤 Customer Management
+* 🍽️ Restaurant Management
+* 🚴 Delivery Partner Management
+* 📦 Order Management
+* 📍 Order Tracking
+* 🤖 Smart Food Delivery Agent
+* 📜 Order History
+* 🗄️ Database Management
 
-**Tech Stack:** Python • MySQL
-
----
-
-## 🏦 Bank Management System
-
-Python OOP-based banking application.
-
-### Features
-
-* Account Creation
-* Deposit & Withdraw
-* Balance Inquiry
-* File Handling
-* Object-Oriented Programming
-
-**Tech Stack:** Python
+**Tech Stack:** Python • MySQL • SQL • AI
 
 ---
 
-## 🎓 Student Management System
-
-Python-based CRUD application.
-
-### Features
-
-* Add Student
-* Update Student
-* Delete Student
-* Search Student
-* Record Management
-
-**Tech Stack:** Python
-
----
-
-## 🗄️ SQL Practice Repository
-
-Collection of SQL queries and database concepts for learning and interview preparation.
-
-### Topics
-
-* SELECT
-* WHERE
-* GROUP BY
-* HAVING
-* JOINS
-* Views
-* Functions
-* Stored Procedures
-* Triggers
-
-**Tech Stack:** SQL • MySQL • SQL Server
-
----
-
-# 📚 Currently Learning
+# 📚 Data Science Journey
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=Advanced+Python;Data+Science;Machine+Learning;Deep+Learning;Generative+AI;Large+Language+Models;RAG+Applications;FastAPI;React;Data+Structures+%26+Algorithms" alt="Currently Learning"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2200&pause=700&color=0E75B6&center=true&vCenter=true&width=750&lines=Python+🐍;SQL+🗄️;Pandas+%26+NumPy+📊;Data+Analysis+📈;Machine+Learning+🤖;Generative+AI+✨;Building+Real-World+Projects+🚀" alt="Data Science Journey"/>
 </p>
 
 ---
@@ -313,35 +245,19 @@ Collection of SQL queries and database concepts for learning and interview prepa
 
 ---
 
-# 🏆 Highlights
+# 🏆 What I Work With
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&color=0E75B6&center=true&vCenter=true&width=700&lines=📊+Data+Scientist;🤖+AI+Engineer;🐍+Python+Developer;🧠+Machine+Learning+Enthusiast;✨+Generative+AI+Learner;📈+Data+Analysis+%26+Visualization;🚀+AI+Application+Developer;💡+Problem+Solver" alt="Highlights"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=700&color=0E75B6&center=true&vCenter=true&width=750&lines=📊+Data+Science;🤖+Machine+Learning;✨+Generative+AI;🐍+Python+Development;🗄️+SQL+%26+Databases;📈+Data+Analysis;🚀+AI+Application+Development" alt="Skills"/>
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 💡 My Data Science Mindset
 
-* [ ] Build production-ready AI applications
-* [ ] Strengthen Python programming
-* [ ] Master Machine Learning
-* [ ] Learn Deep Learning
-* [ ] Improve Data Science skills
-* [ ] Improve DSA & Problem Solving
-* [ ] Build more Generative AI applications
-* [ ] Contribute to Open Source
-* [ ] Secure a Data Science / AI / Python Developer role
+> **Data → Insights → Models → Predictions → Intelligent Solutions**
 
----
-
-# 📜 Certifications & Learning
-
-* 🐍 Python Programming
-* 🗄️ SQL
-* 🤖 Machine Learning
-* ✨ Generative AI
-* 📊 Data Science
+I believe that learning by building real-world projects is the best way to grow as a Data Scientist.
 
 ---
 
@@ -365,16 +281,16 @@ Collection of SQL queries and database concepts for learning and interview prepa
 
 ---
 
-# 💡 Quote
+# 💭 Quote
 
 <p align="center">
-  <i>"Learning never stops. Every project is a step closer to becoming a better developer."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Learning+never+stops+📚;Every+project+teaches+something+new+💡;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+🚀" alt="Quote"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=⭐+Thanks+for+visiting+my+profile!;🚀+Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing!" alt="Thanks for visiting"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=⭐+Thanks+for+visiting+my+profile!;🚀+Let's+Build+Something+Amazing!" alt="Thanks for visiting"/>
 </p>
 
 <p align="center">
