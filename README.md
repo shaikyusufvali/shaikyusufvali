@@ -350,15 +350,15 @@ Collection of SQL queries and database concepts for learning and interview prepa
 <p align="center">
 
 <a href="mailto:shaikyusufvali55@gmail.com">
-<img src="https://img.shields.io/badge/Email-shaikyusufvali55%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-shaikyusufvali55%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shaik-yusuf-vali-79a4aa3a3/">
-<img src="https://img.shields.io/badge/LinkedIn-Shaik%20Yusuf%20Vali-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Shaik%20Yusuf%20Vali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/shaikyusufvali">
-<img src="https://img.shields.io/badge/GitHub-shaikyusufvali-black?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-shaikyusufvali-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </p>
