@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Shaik Yusuf Vali Banner"/>
+  <img src="./coding.gif" width="100%" alt="Shaik Yusuf Vali Coding Animation"/>
 </p>
 
 <p align="center">
