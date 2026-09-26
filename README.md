@@ -30,13 +30,13 @@ I’m an AI-focused developer passionate about transforming **data, algorithms, 
 
 My work focuses on:
 
-- 🤖 Machine Learning & AI Applications
-- 📊 Data Science & Predictive Modeling
+- 🤖 Artificial Intelligence & Machine Learning
 - ✨ Generative AI & LLM Applications
 - 👁️ Computer Vision
 - 🐍 Python Development
 - 🦾 AI & Robotics
 - ⚡ Intelligent Automation
+- 📊 Data Science
 - 🗄️ SQL & Data Systems
 
 > **Learn → Build → Experiment → Improve**
@@ -46,17 +46,17 @@ My work focuses on:
 ## ⚡ AI Development Mindset
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=8A2BE2&center=true&vCenter=true&width=850&lines=Problem+%E2%86%92+Data+%E2%86%92+Model+%E2%86%92+Intelligence;Code+%E2%86%92+Experiment+%E2%86%92+Improve+%E2%86%92+Deploy;Building+AI+that+can+Understand+%E2%80%A2+Predict+%E2%80%A2+Decide+%E2%80%A2+Act"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=8A2BE2&center=true&vCenter=true&width=850&lines=Problem+%E2%86%92+Data+%E2%86%92+Intelligence;Code+%E2%86%92+Experiment+%E2%86%92+Improve+%E2%86%92+Deploy;Building+AI+that+can+Understand+%E2%80%A2+Predict+%E2%80%A2+Decide+%E2%80%A2+Act"/>
 </p>
 
 ---
 
 ## ⚙️ Technology Stack
 
-### 🐍 Programming & Data
+### 🐍 Programming & Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,fastapi,react,html,css,js&perline=10"/>
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ My work focuses on:
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
 
-### 🤖 AI & Machine Learning
+### 🤖 AI & Intelligence
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-00D9FF?style=for-the-badge"/>
@@ -83,12 +83,6 @@ My work focuses on:
   <img src="https://img.shields.io/badge/Computer%20Vision-00A8FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Robotics-00A86B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PyBullet-111827?style=for-the-badge"/>
-</p>
-
-### 🌐 Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,react,html,css,js,streamlit&perline=6"/>
 </p>
 
 ---
@@ -113,7 +107,7 @@ A simulation-based robotics system combining:
 - Computer vision
 - Safety systems
 
-`Python` `PyBullet` `AI` `ML`
+`Python` `PyBullet` `AI` `Robotics`
 
 </td>
 
@@ -123,16 +117,9 @@ A simulation-based robotics system combining:
 
 **Intelligent Digital Workflow System**
 
-Designed to connect AI with business workflows through:
+An AI-powered application designed to connect intelligent automation with business workflows.
 
-- Task automation
-- Document processing
-- Meeting intelligence
-- Reports
-- Approvals
-- AI-powered assistance
-
-`Generative AI` `FastAPI` `React`
+`Generative AI` `FastAPI` `React` `SQL`
 
 </td>
 
@@ -146,15 +133,9 @@ Designed to connect AI with business workflows through:
 
 **Railway Intelligence Platform**
 
-Machine learning system for:
+An intelligent railway platform focused on prediction, passenger intelligence, maintenance analysis and station analytics.
 
-- Train delay prediction
-- Passenger analysis
-- Maintenance intelligence
-- Station crowd analysis
-- Railway analytics
-
-`Python` `Pandas` `Scikit-learn`
+`Python` `Pandas` `Scikit-learn` `Streamlit`
 
 </td>
 
@@ -162,18 +143,9 @@ Machine learning system for:
 
 ## 🧠 Machine Learning Lab
 
-Practical implementations covering:
+A collection of practical machine learning experiments, data analysis projects and intelligent applications.
 
-- Regression
-- Classification
-- KNN
-- Decision Trees
-- Random Forest
-- Naive Bayes
-- Clustering
-- PCA
-
-`Python` `Machine Learning`
+`Python` `Machine Learning` `Data Science`
 
 </td>
 
@@ -182,23 +154,23 @@ Practical implementations covering:
 
 ---
 
-# 🧩 Machine Learning
+# 🤖 AI Robotics
 
 <p align="center">
+  <img src="./robot-wave.gif" width="85%" alt="AI Robot on Water Waves"/>
+</p>
 
-`Regression` • `Classification` • `Clustering` • `PCA`
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=Sense+%E2%86%92+Understand+%E2%86%92+Decide+%E2%86%92+Act;AI+%2B+Robotics+%2B+Vision+%2B+Simulation;Building+Intelligent+Machines"/>
 </p>
 
 <p align="center">
 
-`Feature Engineering` • `Model Evaluation` • `Hyperparameter Tuning`
-
-</p>
-
-<p align="center">
-
-`Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib`
+🦾 **Robotics** &nbsp; • &nbsp;
+👁️ **Vision** &nbsp; • &nbsp;
+🧠 **AI** &nbsp; • &nbsp;
+⚙️ **Simulation** &nbsp; • &nbsp;
+📡 **Telemetry**
 
 </p>
 
@@ -235,7 +207,21 @@ Practical implementations covering:
 # 🧠 How I Build
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=600&color=00D9FF&center=true&vCenter=true&width=800&lines=01+%7C+Understand+the+Problem;02+%7C+Collect+%26+Prepare+Data;03+%7C+Build+the+Model;04+%7C+Evaluate+the+System;05+%7C+Improve+the+Solution;06+%7C+Turn+it+into+an+Application"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=600&color=00D9FF&center=true&vCenter=true&width=800&lines=01+%7C+Understand+the+Problem;02+%7C+Prepare+the+Data;03+%7C+Build+the+System;04+%7C+Test+the+Intelligence;05+%7C+Improve+the+Solution;06+%7C+Deploy+the+Application"/>
+</p>
+
+---
+
+# 🌌 AI Vision
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Data+%E2%86%92+Knowledge;Knowledge+%E2%86%92+Intelligence;Intelligence+%E2%86%92+Decision;Decision+%E2%86%92+Action;Action+%E2%86%92+Intelligent+Systems"/>
+</p>
+
+<p align="center">
+
+**Building systems that can understand, learn, predict and act.**
+
 </p>
 
 ---
@@ -257,20 +243,6 @@ Practical implementations covering:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shaikyusufvali/shaikyusufvali/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
-
----
-
-# 🌌 AI Vision
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Data+%E2%86%92+Knowledge;Knowledge+%E2%86%92+Intelligence;Intelligence+%E2%86%92+Decision;Decision+%E2%86%92+Action;Action+%E2%86%92+Intelligent+Systems"/>
-</p>
-
-<p align="center">
-
-**Building systems that can understand, learn, predict and act.**
-
 </p>
 
 ---
@@ -308,5 +280,5 @@ Practical implementations covering:
 </p>
 
 <p align="center">
-  <sub>Built with Python • AI • Data • Curiosity • Continuous Learning</sub>
+  <sub>Built with Python • AI • Data • Robotics • Curiosity • Continuous Learning</sub>
 </p>
