@@ -26,7 +26,7 @@
 
 🎓 **B.Tech in Artificial Intelligence & Machine Learning**
 
-I'm an **AI-focused developer** interested in building practical intelligent systems using:
+I'm an **AI-focused developer** interested in building practical and intelligent systems using:
 
 - 🤖 Artificial Intelligence & Machine Learning
 - ✨ Generative AI & Large Language Models
@@ -37,7 +37,11 @@ I'm an **AI-focused developer** interested in building practical intelligent sys
 - 📊 Data Science & Analytics
 - 🗄️ SQL & Data Systems
 
-I enjoy taking an idea from **concept → implementation → experimentation → testing → improvement** and turning it into a working system.
+I enjoy taking an idea from:
+
+**Concept → Implementation → Experimentation → Testing → Improvement**
+
+and turning it into a working system.
 
 <p align="center">
 
@@ -50,244 +54,164 @@ I enjoy taking an idea from **concept → implementation → experimentation →
 # ⚡ My AI Journey
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=Python+%E2%86%92+Data+%E2%86%92+Machine+Learning;Machine+Learning+%E2%86%92+Deep+Learning;Deep+Learning+%E2%86%92+Generative+AI;Generative+AI+%E2%86%92+LLMs+%26+RAG;AI+%E2%86%92+Computer+Vision+%26+Robotics;Building+Intelligent+Real-World+Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=Python+%E2%86%92+Data+%E2%86%92+Machine+Learning;Machine+Learning+%E2%86%92+Deep+Learning;Deep+Learning+%E2%86%92+Generative+AI;Generative+AI+%E2%86%92+LLMs+%26+RAG;AI+%E2%86%92+Robotics+%26+Intelligent+Systems"/>
 </p>
 
 ---
 
-# 🛠️ Technology Stack
+## 🛠️ Technical Skills
 
-## 🐍 Programming & Development
+### 👨‍💻 Programming
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,fastapi,react,html,css,js&perline=10"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+### 🤖 AI & Machine Learning
+
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Large Language Models
+- RAG Systems
+- Natural Language Processing
+- Computer Vision
+- Model Evaluation
+- AI Agents
+
+### 🗄️ Data & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 </p>
 
----
+- SQL
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Processing
+- Database Management
 
-## 🤖 AI & Machine Learning
+### ⚙️ Development Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-00D9FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-00A67E?style=for-the-badge"/>
-</p>
-
----
-
-## 👁️ Computer Vision
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-00A8FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Image%20Processing-FF6F00?style=for-the-badge"/>
-</p>
-
----
-
-## 🦾 Robotics & Automation
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Robotics-00A86B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PyBullet-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Simulation-7952B3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Intelligent%20Automation-FF5722?style=for-the-badge"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-<table>
-<tr>
+## 🤖 AI Harmony Pro
 
-<td width="50%">
+An AI-powered intelligent assistant designed to explore conversational AI and modern AI capabilities.
 
-## 🤖 RoboTwin AI
+**Technologies:**
 
-### Robotic Digital Twin & AI Diagnostic Platform
+`Python` `AI` `Generative AI` `LLMs` `RAG` `React`
 
-A simulation-based robotics system focused on intelligent robot monitoring, diagnostics and fault analysis.
-
-### Focus Areas
-
-- 🦾 Robot Simulation
-- 📡 Real-Time Telemetry
-- 🔧 Fault Injection
-- 🧠 AI Diagnostics
-- 📊 Sensor Analysis
-- 🛡️ Safety Monitoring
-- 🔍 Temporal Analysis
-
-**Tech**
-
-`Python` `PyBullet` `AI` `Robotics` `Simulation`
-
-</td>
-
-<td width="50%">
-
-## 👨‍💼 AI Digital Employee
-
-### Intelligent Digital Workflow System
-
-An AI-powered system focused on automating business workflows and repetitive tasks using intelligent software components.
-
-### Focus Areas
-
-- ✨ Generative AI
-- 🧠 LLM Applications
-- 🤖 AI Agents
-- ⚡ Workflow Automation
-- 🔗 API Integration
-- 📊 Data Processing
-
-**Tech**
-
-`Python` `Generative AI` `FastAPI` `React` `SQL`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🚆 RailPulse AI
-
-### Railway Intelligence Platform
-
-An AI-driven railway analytics and intelligence project focused on data analysis, predictive insights and maintenance-oriented intelligence.
-
-### Focus Areas
-
-- 🚆 Railway Analytics
-- 📊 Data Analysis
-- 🔧 Predictive Maintenance
-- 🔍 Fault Analysis
-- 📈 Prediction
-- 🧠 AI Diagnostics
-
-**Tech**
-
-`Python` `Pandas` `Scikit-learn` `AI`
-
-</td>
-
-<td width="50%">
-
-## 🧪 Machine Learning Lab
-
-### Practical Machine Learning & Data Science
-
-A collection of hands-on implementations and experiments covering machine learning concepts and practical data science workflows.
-
-### Focus Areas
-
-- 📊 Data Preprocessing
-- 🔍 Exploratory Data Analysis
-- 📈 Regression
-- 🎯 Classification
-- 🧠 Machine Learning
-- 📉 Model Evaluation
-
-**Tech**
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
-
-</td>
-
-</tr>
-</table>
+🔗 [View Project](https://github.com/shaikyusufvali/HarmonyAI-Pro)
 
 ---
 
-# 🧩 How I Think About Intelligent Systems
+## 🧠 AI Digital Employee
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=600&color=00D9FF&center=true&vCenter=true&width=900&lines=Input+%E2%86%92+Perception;Perception+%E2%86%92+Understanding;Understanding+%E2%86%92+Reasoning;Reasoning+%E2%86%92+Decision;Decision+%E2%86%92+Action;Action+%E2%86%92+Feedback;Feedback+%E2%86%92+Learning"/>
-</p>
+An intelligent automation system designed to assist with digital tasks and workflow automation.
 
-<p align="center">
+**Technologies:**
 
-**Perception → Understanding → Reasoning → Decision → Action → Learning**
-
-</p>
-
-This is the direction I am interested in for building intelligent systems that can interact with data, software environments and eventually physical systems.
+`Python` `FastAPI` `React` `AI` `Automation`
 
 ---
 
-# 🦾 AI + Robotics
+## 📊 Machine Learning Projects
+
+Hands-on projects involving:
+
+- Data preprocessing
+- Exploratory Data Analysis
+- Classification
+- Regression
+- Decision Trees
+- KNN
+- Logistic Regression
+- Ensemble Learning
+- Model Evaluation
+
+---
+
+# 🦾 AI Robotics
+
+I'm interested in the combination of:
+
+**AI + Robotics + Computer Vision + Automation**
+
+My goal is to explore intelligent robotic systems that can understand their environment, make decisions, and perform useful tasks.
 
 <p align="center">
-  <img src="./robot-wave.gif" width="85%" alt="AI Robotics"/>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2300&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=Sense+%E2%86%92+Understand+%E2%86%92+Decide+%E2%86%92+Act;AI+%2B+Robotics+%2B+Vision+%2B+Simulation;Intelligent+Machines+Need+Intelligent+Decision+Making;Building+AI+Systems+for+the+Physical+World"/>
-</p>
-
-<p align="center">
-
-🦾 **Robotics** &nbsp; • &nbsp;
-👁️ **Vision** &nbsp; • &nbsp;
-🧠 **AI** &nbsp; • &nbsp;
-⚙️ **Simulation** &nbsp; • &nbsp;
-📡 **Telemetry** &nbsp; • &nbsp;
-🔧 **Diagnostics**
+🤖 **Perception** → 🧠 **Intelligence** → 🎯 **Decision** → ⚙️ **Action**
 
 </p>
 
 ---
 
-# 🔬 Currently Exploring
+# 🎯 My Goal
+
+My goal is to become a strong **AI & Machine Learning Engineer** and build intelligent systems that solve real-world problems.
+
+I believe the best way to learn technology is by building, experimenting, making mistakes, and improving every day.
+
+> **Don't just learn AI. Build with AI. 🤖**
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,docker,git,github&perline=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikyusufvali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikyusufvali&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+---
+
+# 🐍 Contribution Snake
+
 <p align="center">
-
-🤖 **Machine Learning** &nbsp; • &nbsp;
-🧠 **Deep Learning** &nbsp; • &nbsp;
-✨ **Generative AI**
-
+  <img src="https://raw.githubusercontent.com/shaikyusufvali/shaikyusufvali/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
-<p align="center">
+---
 
-🔗 **LLMs & RAG** &nbsp; • &nbsp;
-👁️ **Computer Vision** &nbsp; • &nbsp;
-🦾 **AI Robotics**
-
-</p>
+# 🌐 Connect With Me
 
 <p align="center">
 
-⚡ **AI Agents** &nbsp; • &nbsp;
-📊 **Data Science** &nbsp; • &nbsp;
-🚀 **Intelligent Automation**
+<a href="https://github.com/shaikyusufvali">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-# 🧠 Engineering Approach
+<!-- 🌊 Animated Water Wave Footer -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2100&pause=600&color=00D9FF&center=true&vCenter=true&width=900&lines=01+%7C+Understand+the+Problem;02+%7C+Study+the+System;03+%7C+Prepare+the+Data;04+%7C+Build+the+Solution;05+%7C+Test+the+System;06+%7C+Analyze+the+Results;07+%7C+Improve+the+Model;08+%7C+Deploy+the+Application"/>
+  <img src="https://waveify.up.railway.app/api/wave/gradient?color=%2300D9FF&height=100&width=1200" width="100%" alt="Animated Water Wave"/>
 </p>
 
-### My Development Philosophy
+<h2 align="center">
+  🌊 THANK YOU FOR VISITING MY PROFILE 🌊
+</h2>
+
+<p align="center">
+  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D9FF,50:0077B6,100:001F3F&section=footer"/>
+</p>
