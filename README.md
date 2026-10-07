@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Generative+AI+Developer;Computer+Vision+Enthusiast;AI+Robotics+Builder;Building+Intelligent+Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Developer;Python+Developer;Computer+Vision+Enthusiast;AI+Robotics+Builder;Building+Intelligent+Systems"/>
 </p>
 
 <p align="center">
@@ -26,9 +26,11 @@
 
 🎓 **B.Tech in Artificial Intelligence & Machine Learning**
 
-I’m an AI-focused developer passionate about transforming **data, algorithms, and ideas into practical intelligent systems**.
+I'm an AI-focused developer interested in building practical intelligent systems using **Machine Learning, Generative AI, Computer Vision, Robotics, and Data**.
 
-My work focuses on:
+I enjoy turning ideas into working systems — from experimentation and model development to automation and deployment.
+
+### What I Work With
 
 - 🤖 Artificial Intelligence & Machine Learning
 - ✨ Generative AI & LLM Applications
@@ -40,14 +42,6 @@ My work focuses on:
 - 🗄️ SQL & Data Systems
 
 > **Learn → Build → Experiment → Improve**
-
----
-
-## ⚡ AI Development Mindset
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=8A2BE2&center=true&vCenter=true&width=850&lines=Problem+%E2%86%92+Data+%E2%86%92+Intelligence;Code+%E2%86%92+Experiment+%E2%86%92+Improve+%E2%86%92+Deploy;Building+AI+that+can+Understand+%E2%80%A2+Predict+%E2%80%A2+Decide+%E2%80%A2+Act"/>
-</p>
 
 ---
 
@@ -66,7 +60,7 @@ My work focuses on:
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
 
-### 🤖 AI & Intelligence
+### 🤖 AI & Machine Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-00D9FF?style=for-the-badge"/>
@@ -76,7 +70,7 @@ My work focuses on:
   <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge"/>
 </p>
 
-### 👁️ Vision & Robotics
+### 👁️ Computer Vision & Robotics
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -94,18 +88,18 @@ My work focuses on:
 
 <td width="50%">
 
-## 🤖 RoboTwin AI
+### 🤖 RoboTwin AI
 
 **Robotic Digital Twin & AI Diagnostic Platform**
 
-A simulation-based robotics system combining:
+A simulation-based robotics system focused on:
 
 - Robot simulation
-- Telemetry
+- Real-time telemetry
 - Fault detection
-- Diagnostic intelligence
-- Computer vision
-- Safety systems
+- AI diagnostics
+- Safety monitoring
+- Intelligent decision support
 
 `Python` `PyBullet` `AI` `Robotics`
 
@@ -113,11 +107,11 @@ A simulation-based robotics system combining:
 
 <td width="50%">
 
-## 👨‍💼 AI Digital Employee
+### 👨‍💼 AI Digital Employee
 
 **Intelligent Digital Workflow System**
 
-An AI-powered application designed to connect intelligent automation with business workflows.
+An AI-powered platform designed to automate business workflows using intelligent agents and modern application architecture.
 
 `Generative AI` `FastAPI` `React` `SQL`
 
@@ -129,11 +123,11 @@ An AI-powered application designed to connect intelligent automation with busine
 
 <td width="50%">
 
-## 🚆 RailPulse AI
+### 🚆 RailPulse AI
 
 **Railway Intelligence Platform**
 
-An intelligent railway platform focused on prediction, passenger intelligence, maintenance analysis and station analytics.
+An AI-driven railway analytics system focused on prediction, maintenance intelligence, passenger analytics and station-level insights.
 
 `Python` `Pandas` `Scikit-learn` `Streamlit`
 
@@ -141,11 +135,13 @@ An intelligent railway platform focused on prediction, passenger intelligence, m
 
 <td width="50%">
 
-## 🧠 Machine Learning Lab
+### 🧠 Machine Learning Lab
 
-A collection of practical machine learning experiments, data analysis projects and intelligent applications.
+**Practical Machine Learning & Data Science**
 
-`Python` `Machine Learning` `Data Science`
+A collection of hands-on experiments covering machine learning algorithms, data analysis, preprocessing, visualization and model development.
+
+`Python` `Machine Learning` `Pandas` `Scikit-learn`
 
 </td>
 
@@ -154,10 +150,10 @@ A collection of practical machine learning experiments, data analysis projects a
 
 ---
 
-# 🤖 AI Robotics
+# 🦾 AI + Robotics
 
 <p align="center">
-  <img src="./robot-wave.gif" width="85%" alt="AI Robot on Water Waves"/>
+  <img src="./robot-wave.gif" width="85%" alt="AI Robotics"/>
 </p>
 
 <p align="center">
@@ -204,7 +200,7 @@ A collection of practical machine learning experiments, data analysis projects a
 
 ---
 
-# 🧠 How I Build
+# 🧠 Engineering Approach
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=600&color=00D9FF&center=true&vCenter=true&width=800&lines=01+%7C+Understand+the+Problem;02+%7C+Prepare+the+Data;03+%7C+Build+the+System;04+%7C+Test+the+Intelligence;05+%7C+Improve+the+Solution;06+%7C+Deploy+the+Application"/>
