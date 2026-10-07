@@ -237,11 +237,11 @@ This is the direction I am interested in for building intelligent systems that c
 
 <p align="center">
 
-🦾 **Robotics**  
-👁️ **Vision**  
-🧠 **AI**  
-⚙️ **Simulation**  
-📡 **Telemetry**  
+🦾 **Robotics** &nbsp; • &nbsp;
+👁️ **Vision** &nbsp; • &nbsp;
+🧠 **AI** &nbsp; • &nbsp;
+⚙️ **Simulation** &nbsp; • &nbsp;
+📡 **Telemetry** &nbsp; • &nbsp;
 🔧 **Diagnostics**
 
 </p>
@@ -286,23 +286,4 @@ This is the direction I am interested in for building intelligent systems that c
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2100&pause=600&color=00D9FF&center=true&vCenter=true&width=900&lines=01+%7C+Understand+the+Problem;02+%7C+Study+the+System;03+%7C+Prepare+the+Data;04+%7C+Build+the+Solution;05+%7C+Test+the+System;06+%7C+Analyze+the+Results;07+%7C+Improve+the+Model;08+%7C+Deploy+the+Application"/>
 </p>
 
-### My development philosophy
-
-```text
-Problem
-   ↓
-Understanding
-   ↓
-Data
-   ↓
-Experimentation
-   ↓
-Model / System
-   ↓
-Testing
-   ↓
-Evaluation
-   ↓
-Optimization
-   ↓
-Deployment
+### My Development Philosophy
