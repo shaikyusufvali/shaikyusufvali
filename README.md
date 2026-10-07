@@ -50,7 +50,7 @@ I enjoy taking an idea from **concept → implementation → experimentation →
 # ⚡ My AI Journey
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=Python+%E2%86%92+Data+%E2%86%92+Machine+Learning;Machine+Learning+%E2%86%92+Deep+Learning;Deep+Learning+%E2%86%92+Generative+AI;Generative+AI+%E2%86%92+LLMs+%26+RAG;AI+%E2%86%92+Computer+Vision+%26+Robotics;Building+Intelligent+Real-World+Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=Python+%E2%86%92+Data+%E2%86%92+Machine+Learning;Machine+Learning+%E2%86%92+Deep+Learning;Deep+Learning+%E2%86%92+Generative+AI;Generative+AI+%E2%86%92+LLMs+%26+RAG;AI+%E2%86%92+Computer+Vision+%26+Robotics;Building+Intelligent+Real-World+Systems"/>
 </p>
 
 ---
@@ -129,7 +129,8 @@ A simulation-based robotics system focused on intelligent robot monitoring, diag
 - 🛡️ Safety Monitoring
 - 🔍 Temporal Analysis
 
-**Tech:**  
+**Tech**
+
 `Python` `PyBullet` `AI` `Robotics` `Simulation`
 
 </td>
@@ -151,7 +152,8 @@ An AI-powered system focused on automating business workflows and repetitive tas
 - 🔗 API Integration
 - 📊 Data Processing
 
-**Tech:**  
+**Tech**
+
 `Python` `Generative AI` `FastAPI` `React` `SQL`
 
 </td>
@@ -177,7 +179,8 @@ An AI-driven railway analytics and intelligence project focused on data analysis
 - 📈 Prediction
 - 🧠 AI Diagnostics
 
-**Tech:**  
+**Tech**
+
 `Python` `Pandas` `Scikit-learn` `AI`
 
 </td>
@@ -199,7 +202,8 @@ A collection of hands-on implementations and experiments covering machine learni
 - 🧠 Machine Learning
 - 📉 Model Evaluation
 
-**Tech:**  
+**Tech**
+
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
 
 </td>
