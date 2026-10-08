@@ -4,7 +4,7 @@
 
 ✨ Generative AI Developer • 🦾 AI Robotics Builder • 🐍 Python Developer
 
-<br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=950&lines=Building+Intelligent+Systems;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Python+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Exploring+AI+%2B+Robotics+%2B+Computer+Vision;Turning+AI+Ideas+Into+Real+Projects;Learning+Today.+Building+Tomorrow." alt="Typing SVG"/><br><a href="https://github.com/shaikyusufvali">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=950&lines=Building+Intelligent+Systems;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Python+%7C+LLMs+%7C+RAG+%7C+AI+Agents;AI+%2B+Robotics+%2B+Computer+Vision;Turning+Ideas+Into+Intelligent+Systems;Learning+Today.+Building+Tomorrow." alt="Typing SVG"/><br><a href="https://github.com/shaikyusufvali">
 <img src="https://img.shields.io/badge/GitHub-Shaik%20Yusuf%20Vali-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a><a href="https://www.linkedin.com/in/shaik-yusuf-vali-79a4aa3a3/">
 <img src="https://img.shields.io/badge/LinkedIn-Shaik%20Yusuf%20Vali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -14,32 +14,53 @@
 
 <img src="https://komarev.com/ghpvc/?username=shaikyusufvali&label=PROFILE+VIEWS&style=for-the-badge"/></div>---
 
-<div align="center">🧠 I Build AI That Can Think, Learn & Act
+<div align="center">🧠 Inside an Intelligent System
 
-<br>                         ╭──────────────────────╮
-                         │      🧠 AI CORE      │
-                         ╰──────────┬───────────╯
-                                    │
-              ┌─────────────────────┼─────────────────────┐
-              │                     │                     │
-              ▼                     ▼                     ▼
-        🧠 LEARN                 ✨ GENERATE           👁️ PERCEIVE
-              │                     │                     │
-         Machine Learning        GenAI / LLMs        Computer Vision
-         Deep Learning           RAG Systems          Visual AI
-              │                     │                     │
-              └─────────────────────┼─────────────────────┘
-                                    │
-                                    ▼
-                              🤖 INTELLIGENCE
-                                    │
-                                    ▼
-                              🦾 ROBOTICS
-                                    │
-                                    ▼
-                              ⚙️ REAL WORLD
+This is the kind of AI system I'm learning to build.
 
-AI → Intelligence → Action
+<br>             🌍 REAL WORLD
+                  │
+                  ▼
+        📥 INPUT / SIGNAL / DATA
+                  │
+                  ▼
+          👁️ PERCEPTION
+       ┌──────────┴──────────┐
+       │                     │
+       ▼                     ▼
+   📊 DATA              👁️ VISION
+       │                     │
+       └──────────┬──────────┘
+                  ▼
+          🧠 AI / ML BRAIN
+                  │
+       ┌──────────┼──────────┐
+       │          │          │
+       ▼          ▼          ▼
+      ML         DL        GenAI
+       │          │          │
+       └──────────┼──────────┘
+                  ▼
+          🧩 CONTEXT + RAG
+                  │
+                  ▼
+           🤔 REASONING
+                  │
+                  ▼
+            🎯 DECISION
+                  │
+                  ▼
+             🦾 ACTION
+                  │
+                  ▼
+          🌍 REAL-WORLD RESULT
+                  │
+                  ▼
+            🔄 FEEDBACK
+                  │
+                  └──────────────► 🧠 LEARNING
+
+Perceive → Understand → Reason → Decide → Act → Learn
 
 </div>---
 
@@ -47,9 +68,9 @@ AI → Intelligence → Action
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning
 
-I'm an AI-focused developer passionate about building intelligent applications and exploring the connection between Artificial Intelligence, Generative AI and Robotics.
+I'm an AI-focused developer interested in building intelligent applications and exploring how AI can connect with real-world systems and robotics.
 
-My current technical focus is:
+My core areas are:
 
 - 🐍 Python
 - 🗄️ SQL
@@ -58,46 +79,39 @@ My current technical focus is:
 - ✨ Generative AI
 - 🧩 LLMs & RAG
 - 🤖 AI Agents
-- 🦾 AI Robotics
 - 👁️ Computer Vision
+- 🦾 AI Robotics
 
-I enjoy taking an idea from:
+I like turning an idea into something that can actually be implemented, tested and improved.
 
-«Idea → AI Concept → Implementation → Experiment → Improvement → Working System»
-
-My goal is not simply to learn AI technologies, but to build intelligent systems with them.
+«Learn the concept → Build the system → Experiment → Improve»
 
 ---
 
-🌌 My AI Vision
+⚡ What AI Means to Me
 
-<div align="center">From Data → Intelligence → Action
+<div align="center">┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│                    🧠 INTELLIGENT SYSTEM                 │
+│                                                          │
+│   INPUT ──► PERCEPTION ──► UNDERSTANDING ──► REASONING │
+│                                      │                   │
+│                                      ▼                   │
+│                                  DECISION                │
+│                                      │                   │
+│                                      ▼                   │
+│                                    ACTION                │
+│                                      │                   │
+│                                      ▼                   │
+│                                  FEEDBACK                │
+│                                      │                   │
+│                                      └────► LEARNING     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-<br>🧠 Learn| ✨ Create| 👁️ Understand| 🦾 Act
-Machine Learning| Generative AI| Computer Vision| Robotics
-Deep Learning| LLMs| Perception| Automation
-Data| RAG| Environment| Intelligent Systems
+</div>For me, AI is not only about training a model.
 
-</div><br>                         🌐 REAL WORLD
-                              │
-                              ▼
-                         👁️ PERCEPTION
-                              │
-                              ▼
-                         🧠 AI MODEL
-                              │
-                    ┌─────────┴─────────┐
-                    │                   │
-                    ▼                   ▼
-               ✨ GENERATE          🎯 DECIDE
-                    │                   │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                         🦾 ACTION
-                              │
-                              ▼
-                    🤖 INTELLIGENT SYSTEM
+It's about building the complete intelligent system around the model.
 
 ---
 
@@ -106,6 +120,18 @@ Data| RAG| Environment| Intelligent Systems
 🐍 Python
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark"/>"Python Programming" · "OOP" · "Functions" · "Data Processing" · "APIs"
+
+---
+
+🗄️ SQL & Data
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>"SQL" · "MySQL" · "PostgreSQL"
+
+- Data Cleaning
+- Data Processing
+- Exploratory Data Analysis
+- Database Queries
+- Data Management
 
 ---
 
@@ -147,24 +173,23 @@ Data| RAG| Environment| Intelligent Systems
 
 ---
 
-🗄️ SQL & Data
+👁️ Computer Vision
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>- SQL
-- Data Cleaning
-- Data Processing
-- Exploratory Data Analysis
-- Database Queries
-- Data Management
+- Computer Vision Fundamentals
+- Image Processing
+- Visual AI
+- Object Detection Concepts
+- AI-powered Vision Applications
 
 ---
 
-🤖 AI & Robotics
+🦾 AI Robotics
 
-- AI Robotics
+- AI + Robotics
 - Intelligent Systems
 - Robotics Concepts
-- AI-based Decision Making
 - Perception & Intelligence
+- AI-based Decision Making
 - Robotics Simulation
 
 ---
@@ -175,49 +200,65 @@ AI-Powered Digital Twin & Robotics Intelligence
 
 «🚧 Currently Building»
 
-RoboTwin AI is one of my major AI + Robotics projects, where I'm exploring how artificial intelligence can interact with robotic systems, simulation and intelligent decision-making.
+RoboTwin AI is my major AI + Robotics project exploring the connection between AI intelligence, simulation and robotic systems.
 
-The idea is to connect:
+The core idea is to create a digital environment where AI can perceive a situation, reason about it, make decisions and interact with a robotic twin.
 
-                  🧠 AI
-                   │
-                   ▼
-              🤖 AI MODEL
-                   │
-          ┌────────┴────────┐
-          │                 │
-          ▼                 ▼
-      👁️ PERCEPTION     🧠 DECISION
-          │                 │
-          └────────┬────────┘
-                   │
-                   ▼
-              🦾 ROBOT TWIN
-                   │
-                   ▼
-              🌐 SIMULATION
-                   │
-                   ▼
-             ⚙️ REAL ACTION
+🧠 System Architecture
 
-🎯 RoboTwin AI Vision
+                    🌍 ENVIRONMENT
+                          │
+                          ▼
+                    👁️ PERCEPTION
+                          │
+                          ▼
+                    📊 DATA / STATE
+                          │
+                          ▼
+                     🧠 AI CORE
+                          │
+              ┌───────────┼───────────┐
+              │           │           │
+              ▼           ▼           ▼
+             ML          DL         GenAI
+              │           │           │
+              └───────────┼───────────┘
+                          │
+                          ▼
+                    🤔 REASONING
+                          │
+                          ▼
+                     🎯 DECISION
+                          │
+                          ▼
+                    🦾 ROBOT TWIN
+                          │
+                          ▼
+                    🌐 SIMULATION
+                          │
+                          ▼
+                    🔄 FEEDBACK
+                          │
+                          └────────► 🧠 AI
+
+🎯 RoboTwin AI Direction
 
 - 🤖 Intelligent robotic behavior
-- 🧠 AI-based decision making
-- 👁️ Visual perception
-- 🌐 Digital-twin concepts
+- 👁️ AI perception
+- 🧠 Decision-making
+- 🌐 Digital Twin concepts
 - ⚙️ Simulation
 - 🔄 AI-driven interaction
 
-The long-term goal: explore how AI can become the intelligence layer of robotic systems.
+«The goal: build an intelligence layer that can connect AI with robotic systems.»
 
 ---
 
-🚀 AI Projects
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,11&height=70&section=header&text=AI%20Projects&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%"/></div>🚀 AI Projects
 
 🤖 AI Harmony Pro
 
-An AI-powered intelligent assistant exploring modern conversational AI and intelligent interaction.
+An AI-powered intelligent assistant exploring conversational AI and modern LLM-based applications.
 
 Focus
 
@@ -230,193 +271,198 @@ https://github.com/shaikyusufvali/HarmonyAI-Pro
 
 🧑‍💻 AI Digital Employee
 
-An intelligent automation project designed to explore how AI can assist with digital tasks and workflows.
+An intelligent automation project exploring how AI can assist with digital tasks and workflows.
 
 Focus
 
 "Python" · "FastAPI" · "React" · "AI" · "Automation"
 
-System Concept
+Workflow
 
 👤 USER
-  │
-  ▼
+   │
+   ▼
 💬 REQUEST
-  │
-  ▼
+   │
+   ▼
 🧠 AI UNDERSTANDING
-  │
-  ▼
+   │
+   ▼
+🤔 REASONING
+   │
+   ▼
 🎯 TASK DECISION
-  │
-  ▼
+   │
+   ▼
 ⚙️ AUTOMATION
-  │
-  ▼
+   │
+   ▼
 ✅ RESULT
+   │
+   ▼
+🔄 FEEDBACK
 
 ---
 
-🧪 Machine Learning Projects
+🧪 Machine Learning Work
 
-I'm continuously building practical ML projects to strengthen my understanding of the complete machine-learning workflow.
+I build ML projects to understand the complete journey from raw data to a working model.
 
-📊 DATA
-  ↓
-🧹 CLEANING
-  ↓
-🔍 EDA
-  ↓
-⚙️ FEATURES
-  ↓
-✂️ TRAIN / TEST
-  ↓
-🧠 MODEL
-  ↓
-📈 EVALUATION
-  ↓
-🚀 IMPROVEMENT
+📊 RAW DATA
+     │
+     ▼
+🧹 CLEAN
+     │
+     ▼
+🔍 EXPLORE
+     │
+     ▼
+⚙️ PREPARE
+     │
+     ▼
+✂️ SPLIT
+     │
+     ▼
+🧠 TRAIN
+     │
+     ▼
+📈 EVALUATE
+     │
+     ▼
+🔧 IMPROVE
+     │
+     ▼
+🚀 APPLY
 
-Models & Concepts
+Models I've been working with
 
 "KNN" · "Logistic Regression" · "Decision Trees" · "Ensemble Learning"
 
 ---
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,11&height=70&section=header&text=AI%20to%20Robotics&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%"/></div>🦾 AI → Robotics
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=AI%20%2B%20Robotics&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%"/></div>🦾 AI + Robotics
 
-My long-term interest is at the intersection of:
+My long-term direction is the intersection of:
 
-🧠 Artificial Intelligence
+AI + Computer Vision + Robotics + Intelligent Automation
 
-👁️ Computer Vision
+The system I imagine is:
 
-🦾 Robotics
+                 👁️ SENSE
+                    │
+                    ▼
+               🧠 PERCEIVE
+                    │
+                    ▼
+               🧩 UNDERSTAND
+                    │
+                    ▼
+                🤔 REASON
+                    │
+                    ▼
+                🎯 DECIDE
+                    │
+                    ▼
+                 🦾 ACT
+                    │
+                    ▼
+                🔄 LEARN
+                    │
+                    └──────────────┐
+                                   │
+                                   ▼
+                              👁️ SENSE AGAIN
 
-⚙️ Intelligent Automation
+My long-term direction
 
-I want to explore systems where AI can:
-
-👁️ SEE
-  ↓
-🧠 UNDERSTAND
-  ↓
-🎯 DECIDE
-  ↓
-🦾 ACT
-  ↓
-🔄 ADAPT
-
-This is the direction I'm building toward:
-
-«AI Engineer → Intelligent Systems → AI Robotics → Autonomous Machines»
+«AI Engineering → Intelligent Systems → AI Robotics → Autonomous Machines»
 
 ---
 
 🔬 What I'm Exploring
 
-<div align="center">Area| Direction
-🧠 AI| Intelligent Systems
-📊 ML| Practical Machine Learning
-🔥 DL| Deep Learning
-✨ GenAI| LLM Applications
-🧩 RAG| Knowledge-based AI
-🤖 Agents| AI Task Automation
-👁️ Vision| Machine Perception
-🦾 Robotics| AI + Robotics
-🌐 Simulation| Digital Twins
-⚙️ Automation| Intelligent Workflows
+<div align="center">🧠 Area| 🔍 Focus
+Python| AI Development
+SQL| Data & Systems
+ML| Prediction & Decision Making
+DL| Neural Intelligence
+GenAI| Generative Applications
+LLMs| Language Intelligence
+RAG| Context-Aware AI
+AI Agents| Task-Oriented AI
+Computer Vision| Machine Perception
+Robotics| Physical Intelligence
+Digital Twins| Simulation & Robotics
 
 </div>---
 
-🧠 My Engineering Philosophy
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=My%20Engineering%20Mindset&fontSize=27&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%"/></div>🧠 My Engineering Mindset
 
-        💡 IDEA
-          │
-          ▼
-      📚 LEARN
-          │
-          ▼
-      🧠 UNDERSTAND
-          │
-          ▼
-      💻 BUILD
-          │
-          ▼
-      🧪 EXPERIMENT
-          │
-          ▼
-      🐛 DEBUG
-          │
-          ▼
-      📈 IMPROVE
-          │
-          ▼
-      🚀 CREATE
+                    💡 IDEA
+                      │
+                      ▼
+                 📚 LEARN
+                      │
+                      ▼
+               🧠 UNDERSTAND
+                      │
+                      ▼
+                  💻 BUILD
+                      │
+                      ▼
+                🧪 EXPERIMENT
+                      │
+                      ▼
+                 🐛 DEBUG
+                      │
+                      ▼
+                 📈 IMPROVE
+                      │
+                      ▼
+                  🚀 SHIP
+                      │
+                      ▼
+                 🔄 REPEAT
 
-«Don't just learn AI. Build with AI.»
-
----
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=My%20AI%20Roadmap&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%"/></div>🗺️ My AI Roadmap
-
-🐍 Python
-   │
-   ▼
-🗄️ SQL + Data
-   │
-   ▼
-🧠 Machine Learning
-   │
-   ▼
-🔥 Deep Learning
-   │
-   ▼
-✨ Generative AI
-   │
-   ▼
-🧩 LLMs + RAG
-   │
-   ▼
-🤖 AI Agents
-   │
-   ▼
-👁️ Computer Vision
-   │
-   ▼
-🦾 Robotics
-   │
-   ▼
-🌐 Digital Twins
-   │
-   ▼
-🤖 Intelligent Autonomous Systems
+«Build first. Learn deeply. Improve continuously.»
 
 ---
 
-🎯 What I'm Building Toward
+🎯 My Direction
 
-AI Engineer + Robotics Builder
+<div align="center">        🐍 PYTHON
+            │
+            ▼
+        🗄️ DATA / SQL
+            │
+            ▼
+        🧠 MACHINE LEARNING
+            │
+            ▼
+        🔥 DEEP LEARNING
+            │
+            ▼
+        ✨ GENERATIVE AI
+            │
+            ▼
+        🧩 LLMs + RAG
+            │
+            ▼
+        🤖 AI AGENTS
+            │
+            ▼
+        👁️ COMPUTER VISION
+            │
+            ▼
+        🦾 ROBOTICS
+            │
+            ▼
+        🌐 DIGITAL TWINS
+            │
+            ▼
+    🤖 INTELLIGENT SYSTEMS
 
-I want to develop the ability to work across the complete intelligent-system stack:
-
-              🧠 INTELLIGENCE
-                    │
-       ┌────────────┼────────────┐
-       │            │            │
-      ML           DL          GenAI
-       │            │            │
-       └────────────┼────────────┘
-                    │
-              👁️ PERCEPTION
-                    │
-              🦾 ROBOTICS
-                    │
-             ⚙️ AUTOMATION
-                    │
-              🌍 REAL WORLD
-
----
+</div>---
 
 📊 GitHub Stats
 
@@ -444,11 +490,11 @@ I want to develop the ability to work across the complete intelligent-system sta
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a></div>---
 
-<div align="center">🤖 BUILDING THE INTELLIGENCE OF TOMORROW
+<div align="center">🤖 BUILDING INTELLIGENT SYSTEMS
 
-<br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2400&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Learn+AI.;Build+AI.;Connect+AI+with+Robotics.;Create+Intelligent+Systems.;Keep+Building.+Keep+Learning.+%F0%9F%9A%80"/><br><br>
+<br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2400&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Perceive.;Understand.;Reason.;Decide.;Act.;Learn.;Build+the+Future+with+AI+%F0%9F%A4%96" alt="AI System Loop"/><br><br>
 
-🧠 AI • ✨ Generative AI • 🦾 Robotics • 👁️ Vision
+🧠 AI • ✨ Generative AI • 👁️ Vision • 🦾 Robotics
 
 <br><img src="https://waveify.up.railway.app/api/wave/gradient?color=%2300D9FF&height=100&width=1200" width="100%" alt="Animated Footer Wave"/><br><h2>🌊 THANK YOU FOR VISITING MY PROFILE 🌊</h2><i>Learn • Build • Experiment • Improve • Repeat 🚀</i>
 
