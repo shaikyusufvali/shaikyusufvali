@@ -1,240 +1,503 @@
-👋 Hi, I'm Shaik Yusuf Vali
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">👋 Hi, I'm Shaik Yusuf Vali
 
-<!-- ═══════════ ANIMATED HERO BANNER ═══════════ --><p align="center">
-  <img src="./banner.gif" width="100%" alt="Shaik Yusuf Vali — Animated AI and Robotics Banner"/>
-</p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;Generative+AI+Developer;AI+Robotics+Builder;Python+Developer;LLMs+%7C+RAG+%7C+AI+Agents;Connecting+AI+with+the+Real+World" alt="Animated introduction"/>
-</p><p align="center">
-  <b>🧠 Learn</b> &nbsp; • &nbsp;
-  <b>⚙️ Build</b> &nbsp; • &nbsp;
-  <b>🧪 Experiment</b> &nbsp; • &nbsp;
-  <b>🚀 Improve</b>
-</p><p align="center">
-  <a href="https://github.com/shaikyusufvali">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shaik-yusuf-vali-79a4aa3a3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shaikyusufvali55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaikyusufvali&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square" alt="Profile views"/>
-</p>---
+🤖 AI & Machine Learning Engineer
 
-🧬 About Me
+✨ Generative AI Developer • 🦾 AI Robotics Builder • 🐍 Python Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=950&lines=Building+Intelligent+Systems;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Python+%7C+LLMs+%7C+RAG+%7C+AI+Agents;AI+%2B+Robotics+%2B+Computer+Vision;Turning+Ideas+Into+Intelligent+Systems;Learning+Today.+Building+Tomorrow." alt="Typing SVG"/><br><a href="https://github.com/shaikyusufvali">
+<img src="https://img.shields.io/badge/GitHub-Shaik%20Yusuf%20Vali-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/shaik-yusuf-vali-79a4aa3a3/">
+<img src="https://img.shields.io/badge/LinkedIn-Shaik%20Yusuf%20Vali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:shaikyusufvali55@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><br><br>
+
+<img src="https://komarev.com/ghpvc/?username=shaikyusufvali&label=PROFILE+VIEWS&style=for-the-badge"/></div>---
+
+<div align="center">🧠 Inside an Intelligent System
+
+This is the kind of AI system I'm learning to build.
+
+<br>             🌍 REAL WORLD
+                  │
+                  ▼
+        📥 INPUT / SIGNAL / DATA
+                  │
+                  ▼
+          👁️ PERCEPTION
+       ┌──────────┴──────────┐
+       │                     │
+       ▼                     ▼
+   📊 DATA              👁️ VISION
+       │                     │
+       └──────────┬──────────┘
+                  ▼
+          🧠 AI / ML BRAIN
+                  │
+       ┌──────────┼──────────┐
+       │          │          │
+       ▼          ▼          ▼
+      ML         DL        GenAI
+       │          │          │
+       └──────────┼──────────┘
+                  ▼
+          🧩 CONTEXT + RAG
+                  │
+                  ▼
+           🤔 REASONING
+                  │
+                  ▼
+            🎯 DECISION
+                  │
+                  ▼
+             🦾 ACTION
+                  │
+                  ▼
+          🌍 REAL-WORLD RESULT
+                  │
+                  ▼
+            🔄 FEEDBACK
+                  │
+                  └──────────────► 🧠 LEARNING
+
+Perceive → Understand → Reason → Decide → Act → Learn
+
+</div>---
+
+🧭 About Me
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning
 
-I'm an AI-focused developer interested in building intelligent applications and exploring how artificial intelligence can connect with real-world systems and robotics.
+I'm an AI-focused developer interested in building intelligent applications and exploring how AI can connect with real-world systems and robotics.
 
-I enjoy understanding how models work, developing practical projects, experimenting with new technologies, and improving my engineering skills step by step.
+My core areas are:
 
-- 🐍 Python programming and SQL
-- 🧠 Machine Learning and Deep Learning
-- ✨ Generative AI, LLMs, and RAG
-- 🤖 AI agents and intelligent automation
-- 👁️ Computer Vision and perception
-- 🦾 AI Robotics and intelligent systems
+- 🐍 Python
+- 🗄️ SQL
+- 🧠 Machine Learning
+- 🔥 Deep Learning
+- ✨ Generative AI
+- 🧩 LLMs & RAG
+- 🤖 AI Agents
+- 👁️ Computer Vision
+- 🦾 AI Robotics
 
-«My goal is to understand how complete intelligent systems are designed, built, tested, and improved — beyond individual AI models.»
+I like turning an idea into something that can actually be implemented, tested and improved.
+
+«Learn the concept → Build the system → Experiment → Improve»
 
 ---
 
-⚡ Inside an Intelligent System
+⚡ What AI Means to Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/01-REAL%20WORLD-123B60?style=for-the-badge" alt="Real world"/>
-  ↓
-  <img src="https://img.shields.io/badge/02-INPUT%20%26%20DATA-075985?style=for-the-badge" alt="Input and data"/>
-  ↓
-  <img src="https://img.shields.io/badge/03-PERCEPTION-0F766E?style=for-the-badge" alt="Perception"/>
-</p><p align="center">
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-INTELLIGENCE-6D28D9?style=for-the-badge" alt="AI and ML"/>
-  →
-  <img src="https://img.shields.io/badge/LLMs%20%2B%20RAG-CONTEXT-4338CA?style=for-the-badge" alt="LLMs and RAG"/>
-  →
-  <img src="https://img.shields.io/badge/REASONING-UNDERSTANDING-7C3AED?style=for-the-badge" alt="Reasoning"/>
-</p><p align="center">
-  <img src="https://img.shields.io/badge/DECISION-CHOOSE-0369A1?style=for-the-badge" alt="Decision"/>
-  →
-  <img src="https://img.shields.io/badge/ACTION-EXECUTE-0E7490?style=for-the-badge" alt="Action"/>
-  →
-  <img src="https://img.shields.io/badge/FEEDBACK-LEARN-047857?style=for-the-badge" alt="Feedback"/>
-</p><p align="center">
-  <i>Perceive → Understand → Reason → Decide → Act → Learn</i>
-</p>---
+<div align="center">┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│                    🧠 INTELLIGENT SYSTEM                 │
+│                                                          │
+│   INPUT ──► PERCEPTION ──► UNDERSTANDING ──► REASONING │
+│                                      │                   │
+│                                      ▼                   │
+│                                  DECISION                │
+│                                      │                   │
+│                                      ▼                   │
+│                                    ACTION                │
+│                                      │                   │
+│                                      ▼                   │
+│                                  FEEDBACK                │
+│                                      │                   │
+│                                      └────► LEARNING     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-🛠️ Technical Skills
+</div>For me, AI is not only about training a model.
 
-🐍 Programming & Development
+It's about building the complete intelligent system around the model.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Programming and development tools"/>
-</p>- Python fundamentals, functions, and OOP
-- APIs and application development
-- Git, GitHub, and VS Code
+---
 
-🗄️ Database & Data Processing
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=Core%20AI%20Skills&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%"/></div>🛠️ Technical Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Database technologies"/>
-</p>- SQL queries and database fundamentals
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Data preparation and management
+🐍 Python
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>"Python Programming" · "OOP" · "Functions" · "Data Processing" · "APIs"
+
+---
+
+🗄️ SQL & Data
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>"SQL" · "MySQL" · "PostgreSQL"
+
+- Data Cleaning
+- Data Processing
+- Exploratory Data Analysis
+- Database Queries
+- Data Management
+
+---
 
 🧠 Machine Learning
 
 - Supervised Learning
-- Classification and Regression
-- K-Nearest Neighbors (KNN)
+- Classification
+- Regression
+- KNN
 - Logistic Regression
 - Decision Trees
 - Ensemble Learning
-- Model Evaluation and Preprocessing
-
-🔥 Deep Learning
-
-- Neural Network Fundamentals
-- Model Training and Evaluation
-- Image-based AI concepts
-- Deep Learning applications
-
-✨ Generative AI
-
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- AI Assistants and AI Agents
-- Intelligent Automation
-
-👁️ Computer Vision & 🦾 Robotics
-
-- Image Processing and Visual AI
-- Object Detection Concepts
-- Perception and Decision-Making
-- Robotics Fundamentals
-- Simulation and Digital Twin Concepts
+- Model Evaluation
+- Data Preprocessing
+- Exploratory Data Analysis
 
 ---
 
-🚀 Featured Projects
+🔥 Deep Learning
+
+- Neural Networks
+- Deep Learning Fundamentals
+- Model Training
+- Model Evaluation
+- Image-based AI concepts
+
+---
+
+✨ Generative AI
+
+- Generative AI
+- Large Language Models
+- Prompt Engineering
+- RAG
+- AI Assistants
+- AI Agents
+- Intelligent Automation
+- AI Application Development
+
+---
+
+👁️ Computer Vision
+
+- Computer Vision Fundamentals
+- Image Processing
+- Visual AI
+- Object Detection Concepts
+- AI-powered Vision Applications
+
+---
+
+🦾 AI Robotics
+
+- AI + Robotics
+- Intelligent Systems
+- Robotics Concepts
+- Perception & Intelligence
+- AI-based Decision Making
+- Robotics Simulation
+
+---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=70&section=header&text=Flagship%20Project&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%"/></div>🦾 RoboTwin AI
+
+AI-Powered Digital Twin & Robotics Intelligence
+
+«🚧 Currently Building»
+
+RoboTwin AI is my major AI + Robotics project exploring the connection between AI intelligence, simulation and robotic systems.
+
+The core idea is to create a digital environment where AI can perceive a situation, reason about it, make decisions and interact with a robotic twin.
+
+🧠 System Architecture
+
+                    🌍 ENVIRONMENT
+                          │
+                          ▼
+                    👁️ PERCEPTION
+                          │
+                          ▼
+                    📊 DATA / STATE
+                          │
+                          ▼
+                     🧠 AI CORE
+                          │
+              ┌───────────┼───────────┐
+              │           │           │
+              ▼           ▼           ▼
+             ML          DL         GenAI
+              │           │           │
+              └───────────┼───────────┘
+                          │
+                          ▼
+                    🤔 REASONING
+                          │
+                          ▼
+                     🎯 DECISION
+                          │
+                          ▼
+                    🦾 ROBOT TWIN
+                          │
+                          ▼
+                    🌐 SIMULATION
+                          │
+                          ▼
+                    🔄 FEEDBACK
+                          │
+                          └────────► 🧠 AI
+
+🎯 RoboTwin AI Direction
+
+- 🤖 Intelligent robotic behavior
+- 👁️ AI perception
+- 🧠 Decision-making
+- 🌐 Digital Twin concepts
+- ⚙️ Simulation
+- 🔄 AI-driven interaction
+
+«The goal: build an intelligence layer that can connect AI with robotic systems.»
+
+---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,11&height=70&section=header&text=AI%20Projects&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%"/></div>🚀 AI Projects
 
 🤖 AI Harmony Pro
 
-<p>
-  <a href="https://github.com/shaikyusufvali/HarmonyAI-Pro">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-AI%20HARMONY%20PRO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="AI Harmony Pro repository"/>
-  </a>
-</p>An AI-powered assistant project exploring conversational AI and modern LLM-based applications.
+An AI-powered intelligent assistant exploring conversational AI and modern LLM-based applications.
 
-Focus areas: "Python" · "Generative AI" · "LLMs" · "RAG" · "React"
+Focus
+
+"Python" · "Generative AI" · "LLMs" · "RAG" · "React"
+
+🔗 Repository:
+https://github.com/shaikyusufvali/HarmonyAI-Pro
+
+---
 
 🧑‍💻 AI Digital Employee
 
 An intelligent automation project exploring how AI can assist with digital tasks and workflows.
 
-Focus areas: "Python" · "FastAPI" · "React" · "AI" · "Automation"
+Focus
 
-🦾 RoboTwin AI — Digital Twin & Robotics Intelligence
+"Python" · "FastAPI" · "React" · "AI" · "Automation"
 
-Status: Project concept and development direction.
+Workflow
 
-RoboTwin AI explores the connection between AI intelligence, simulation, and robotic systems. The idea is to investigate how an intelligent system can perceive its environment, reason about a situation, make decisions, and interact with a simulated robotic twin.
-
-Planned focus areas:
-
-- 👁️ AI-based perception
-- 🧠 Intelligent decision-making
-- 🌐 Robotics simulation and digital twins
-- ⚙️ Interaction with simulated environments
-- 🔄 Feedback-driven improvement
-
----
-
-🔬 My AI Development Workflow
-
-<p align="center">
-  <img src="https://img.shields.io/badge/01-RAW%20DATA-123B60?style=flat-square" alt="Raw data"/>
-  →
-  <img src="https://img.shields.io/badge/02-CLEAN-075985?style=flat-square" alt="Cleaning"/>
-  →
-  <img src="https://img.shields.io/badge/03-EXPLORE-0F766E?style=flat-square" alt="Exploration"/>
-</p><p align="center">
-  <img src="https://img.shields.io/badge/04-PREPARE-4338CA?style=flat-square" alt="Preparation"/>
-  →
-  <img src="https://img.shields.io/badge/05-TRAIN-6D28D9?style=flat-square" alt="Training"/>
-  →
-  <img src="https://img.shields.io/badge/06-EVALUATE-0369A1?style=flat-square" alt="Evaluation"/>
-</p><p align="center">
-  <img src="https://img.shields.io/badge/07-IMPROVE-047857?style=flat-square" alt="Improvement"/>
-  →
-  <img src="https://img.shields.io/badge/08-APPLY-0E7490?style=flat-square" alt="Application"/>
-</p>I use this workflow to understand the journey from raw information to a tested and useful AI application.
+👤 USER
+   │
+   ▼
+💬 REQUEST
+   │
+   ▼
+🧠 AI UNDERSTANDING
+   │
+   ▼
+🤔 REASONING
+   │
+   ▼
+🎯 TASK DECISION
+   │
+   ▼
+⚙️ AUTOMATION
+   │
+   ▼
+✅ RESULT
+   │
+   ▼
+🔄 FEEDBACK
 
 ---
 
-🦾 My Long-Term Direction
+🧪 Machine Learning Work
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  →
-  <img src="https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge" alt="Machine Learning"/>
-  →
-  <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge" alt="Deep Learning"/>
-</p><p align="center">
-  <img src="https://img.shields.io/badge/Generative%20AI-0369A1?style=for-the-badge" alt="Generative AI"/>
-  →
-  <img src="https://img.shields.io/badge/Computer%20Vision-0F766E?style=for-the-badge" alt="Computer Vision"/>
-  →
-  <img src="https://img.shields.io/badge/Robotics-075985?style=for-the-badge" alt="Robotics"/>
-</p><p align="center">
-  <b>Intelligent Systems → Autonomous Machines</b>
-</p>My long-term interest is understanding how AI, perception, software, and robotics can work together to create systems that interact with the physical world.
+I build ML projects to understand the complete journey from raw data to a working model.
+
+📊 RAW DATA
+     │
+     ▼
+🧹 CLEAN
+     │
+     ▼
+🔍 EXPLORE
+     │
+     ▼
+⚙️ PREPARE
+     │
+     ▼
+✂️ SPLIT
+     │
+     ▼
+🧠 TRAIN
+     │
+     ▼
+📈 EVALUATE
+     │
+     ▼
+🔧 IMPROVE
+     │
+     ▼
+🚀 APPLY
+
+Models I've been working with
+
+"KNN" · "Logistic Regression" · "Decision Trees" · "Ensemble Learning"
 
 ---
 
-📊 GitHub Overview
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=AI%20%2B%20Robotics&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%"/></div>🦾 AI + Robotics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaikyusufvali&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikyusufvali&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most used languages"/>
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikyusufvali&theme=tokyonight&hide_border=true" width="75%" alt="GitHub contribution streak"/>
-</p>📈 Contribution Activity
+My long-term direction is the intersection of:
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikyusufvali&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub activity graph"/>
-</p>---
+AI + Computer Vision + Robotics + Intelligent Automation
+
+The system I imagine is:
+
+                 👁️ SENSE
+                    │
+                    ▼
+               🧠 PERCEIVE
+                    │
+                    ▼
+               🧩 UNDERSTAND
+                    │
+                    ▼
+                🤔 REASON
+                    │
+                    ▼
+                🎯 DECIDE
+                    │
+                    ▼
+                 🦾 ACT
+                    │
+                    ▼
+                🔄 LEARN
+                    │
+                    └──────────────┐
+                                   │
+                                   ▼
+                              👁️ SENSE AGAIN
+
+My long-term direction
+
+«AI Engineering → Intelligent Systems → AI Robotics → Autonomous Machines»
+
+---
+
+🔬 What I'm Exploring
+
+<div align="center">🧠 Area| 🔍 Focus
+Python| AI Development
+SQL| Data & Systems
+ML| Prediction & Decision Making
+DL| Neural Intelligence
+GenAI| Generative Applications
+LLMs| Language Intelligence
+RAG| Context-Aware AI
+AI Agents| Task-Oriented AI
+Computer Vision| Machine Perception
+Robotics| Physical Intelligence
+Digital Twins| Simulation & Robotics
+
+</div>---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=My%20Engineering%20Mindset&fontSize=27&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%"/></div>🧠 My Engineering Mindset
+
+                    💡 IDEA
+                      │
+                      ▼
+                 📚 LEARN
+                      │
+                      ▼
+               🧠 UNDERSTAND
+                      │
+                      ▼
+                  💻 BUILD
+                      │
+                      ▼
+                🧪 EXPERIMENT
+                      │
+                      ▼
+                 🐛 DEBUG
+                      │
+                      ▼
+                 📈 IMPROVE
+                      │
+                      ▼
+                  🚀 SHIP
+                      │
+                      ▼
+                 🔄 REPEAT
+
+«Build first. Learn deeply. Improve continuously.»
+
+---
+
+🎯 My Direction
+
+<div align="center">        🐍 PYTHON
+            │
+            ▼
+        🗄️ DATA / SQL
+            │
+            ▼
+        🧠 MACHINE LEARNING
+            │
+            ▼
+        🔥 DEEP LEARNING
+            │
+            ▼
+        ✨ GENERATIVE AI
+            │
+            ▼
+        🧩 LLMs + RAG
+            │
+            ▼
+        🤖 AI AGENTS
+            │
+            ▼
+        👁️ COMPUTER VISION
+            │
+            ▼
+        🦾 ROBOTICS
+            │
+            ▼
+        🌐 DIGITAL TWINS
+            │
+            ▼
+    🤖 INTELLIGENT SYSTEMS
+
+</div>---
+
+📊 GitHub Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shaikyusufvali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikyusufvali&theme=tokyonight&hide_border=true" height="170"/><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikyusufvali&layout=compact&theme=tokyonight&hide_border=true" height="170"/></div>---
+
+📈 GitHub Activity
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikyusufvali&theme=tokyo-night&hide_border=true&area=true" width="95%"/></div>---
+
+🏆 GitHub Achievements
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=shaikyusufvali&theme=tokyonight&no-frame=true&row=1&column=7" width="95%"/></div>---
 
 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shaikyusufvali/shaikyusufvali/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation"/>
-</p><p align="center">
-  <i>Requires a GitHub Actions workflow to generate the SVG and publish it to the output branch.</i>
-</p>---
+<div align="center"><img src="https://raw.githubusercontent.com/shaikyusufvali/shaikyusufvali/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/></div>---
 
 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/shaikyusufvali">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shaik-yusuf-vali-79a4aa3a3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
-  </a>
-  <a href="mailto:shaikyusufvali55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-</p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Think+Intelligently;Build+Purposefully;Experiment+Fearlessly;Improve+Continuously" alt="Animated closing message"/>
-</p><p align="center">
-  <img src="./banner.gif" width="100%" alt="Animated AI footer banner"/>
-</p><p align="center">
-  <b>🧠 AI • ✨ Generative AI • 👁️ Computer Vision • 🦾 Robotics</b>
-  <br/>
-  <i>Build with curiosity. Learn with purpose. Create intelligent systems.</i>
-</p>
+<div align="center"><a href="https://github.com/shaikyusufvali">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/shaik-yusuf-vali-79a4aa3a3/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:shaikyusufvali55@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></div>---
+
+<div align="center">🤖 BUILDING INTELLIGENT SYSTEMS
+
+<br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2400&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Perceive.;Understand.;Reason.;Decide.;Act.;Learn.;Build+the+Future+with+AI+%F0%9F%A4%96" alt="AI System Loop"/><br><br>
+
+🧠 AI • ✨ Generative AI • 👁️ Vision • 🦾 Robotics
+
+<br><img src="https://waveify.up.railway.app/api/wave/gradient?color=%2300D9FF&height=100&width=1200" width="100%" alt="Animated Footer Wave"/><br><h2>🌊 THANK YOU FOR VISITING MY PROFILE 🌊</h2><i>Learn • Build • Experiment • Improve • Repeat 🚀</i>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D9FF,50:0077B6,100:001F3F&section=footer"/></div>
