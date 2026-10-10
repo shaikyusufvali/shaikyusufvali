@@ -1,7 +1,7 @@
 👋 Hi, I'm Shaik Yusuf Vali
 
-<!-- ═══════════ HERO BANNER ═══════════ --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:003B73,70:0077B6,100:00D9FF&text=SHAIK%20YUSUF%20VALI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20Robotics&descSize=15&descAlignY=58&animation=twinkling" width="100%" alt="Shaik Yusuf Vali AI and Robotics banner"/>
+<!-- ═══════════ ANIMATED HERO BANNER ═══════════ --><p align="center">
+  <img src="./banner.gif" width="100%" alt="Shaik Yusuf Vali — Animated AI and Robotics Banner"/>
 </p><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;Generative+AI+Developer;AI+Robotics+Builder;Python+Developer;LLMs+%7C+RAG+%7C+AI+Agents;Connecting+AI+with+the+Real+World" alt="Animated introduction"/>
 </p><p align="center">
@@ -46,21 +46,21 @@ I enjoy understanding how models work, developing practical projects, experiment
 
 <p align="center">
   <img src="https://img.shields.io/badge/01-REAL%20WORLD-123B60?style=for-the-badge" alt="Real world"/>
-  &nbsp; ↓ &nbsp;
+  ↓
   <img src="https://img.shields.io/badge/02-INPUT%20%26%20DATA-075985?style=for-the-badge" alt="Input and data"/>
-  &nbsp; ↓ &nbsp;
+  ↓
   <img src="https://img.shields.io/badge/03-PERCEPTION-0F766E?style=for-the-badge" alt="Perception"/>
-</p><p align="center">⬇️</p><p align="center">
+</p><p align="center">
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-INTELLIGENCE-6D28D9?style=for-the-badge" alt="AI and ML"/>
-  &nbsp; → &nbsp;
+  →
   <img src="https://img.shields.io/badge/LLMs%20%2B%20RAG-CONTEXT-4338CA?style=for-the-badge" alt="LLMs and RAG"/>
-  &nbsp; → &nbsp;
+  →
   <img src="https://img.shields.io/badge/REASONING-UNDERSTANDING-7C3AED?style=for-the-badge" alt="Reasoning"/>
-</p><p align="center">⬇️</p><p align="center">
+</p><p align="center">
   <img src="https://img.shields.io/badge/DECISION-CHOOSE-0369A1?style=for-the-badge" alt="Decision"/>
-  &nbsp; → &nbsp;
+  →
   <img src="https://img.shields.io/badge/ACTION-EXECUTE-0E7490?style=for-the-badge" alt="Action"/>
-  &nbsp; → &nbsp;
+  →
   <img src="https://img.shields.io/badge/FEEDBACK-LEARN-047857?style=for-the-badge" alt="Feedback"/>
 </p><p align="center">
   <i>Perceive → Understand → Reason → Decide → Act → Learn</i>
@@ -71,7 +71,7 @@ I enjoy understanding how models work, developing practical projects, experiment
 🐍 Programming & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python and development tools"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Programming and development tools"/>
 </p>- Python fundamentals, functions, and OOP
 - APIs and application development
 - Git, GitHub, and VS Code
@@ -126,25 +126,25 @@ I enjoy understanding how models work, developing practical projects, experiment
 
 <p>
   <a href="https://github.com/shaikyusufvali/HarmonyAI-Pro">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-AI%20HARMONY%20PRO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View AI Harmony Pro"/>
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-AI%20HARMONY%20PRO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="AI Harmony Pro repository"/>
   </a>
 </p>An AI-powered assistant project exploring conversational AI and modern LLM-based applications.
 
-Technologies: "Python" · "Generative AI" · "LLMs" · "RAG" · "React"
+Focus areas: "Python" · "Generative AI" · "LLMs" · "RAG" · "React"
 
 🧑‍💻 AI Digital Employee
 
 An intelligent automation project exploring how AI can assist with digital tasks and workflows.
 
-Technologies: "Python" · "FastAPI" · "React" · "AI" · "Automation"
+Focus areas: "Python" · "FastAPI" · "React" · "AI" · "Automation"
 
 🦾 RoboTwin AI — Digital Twin & Robotics Intelligence
 
-<kbd>PROJECT CONCEPT / DEVELOPMENT DIRECTION</kbd>
+Status: Project concept and development direction.
 
-Exploring how AI can connect perception, decision-making, simulation, and robotic systems through a digital-twin approach.
+RoboTwin AI explores the connection between AI intelligence, simulation, and robotic systems. The idea is to investigate how an intelligent system can perceive its environment, reason about a situation, make decisions, and interact with a simulated robotic twin.
 
-Planned focus:
+Planned focus areas:
 
 - 👁️ AI-based perception
 - 🧠 Intelligent decision-making
@@ -181,9 +181,9 @@ Planned focus:
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   →
-  <img src="https://img.shields.io/badge/ML-6D28D9?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge" alt="Machine Learning"/>
   →
-  <img src="https://img.shields.io/badge/DL-7C3AED?style=for-the-badge" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge" alt="Deep Learning"/>
 </p><p align="center">
   <img src="https://img.shields.io/badge/Generative%20AI-0369A1?style=for-the-badge" alt="Generative AI"/>
   →
@@ -214,7 +214,7 @@ Planned focus:
 <p align="center">
   <img src="https://raw.githubusercontent.com/shaikyusufvali/shaikyusufvali/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation"/>
 </p><p align="center">
-  <i>The snake animation requires a GitHub Actions workflow to generate the SVG and publish it to the output branch.</i>
+  <i>Requires a GitHub Actions workflow to generate the SVG and publish it to the output branch.</i>
 </p>---
 
 🌐 Connect With Me
@@ -232,7 +232,7 @@ Planned focus:
 </p><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Think+Intelligently;Build+Purposefully;Experiment+Fearlessly;Improve+Continuously" alt="Animated closing message"/>
 </p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00D9FF,50:0077B6,100:020617&animation=twinkling" width="100%" alt="Footer banner"/>
+  <img src="./banner.gif" width="100%" alt="Animated AI footer banner"/>
 </p><p align="center">
   <b>🧠 AI • ✨ Generative AI • 👁️ Computer Vision • 🦾 Robotics</b>
   <br/>
